@@ -11,5 +11,4 @@
 
 ## Overleaf Write access:
 https://www.overleaf.com/2298967988wyrjykhktnst
-# Weather-Prediction
 
