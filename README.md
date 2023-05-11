@@ -1,7 +1,7 @@
 # Weather-Prediction
 
 ## Group
-5(Babas)
+5 - Babas
 
 ## Group Members
 - Mohammed Abrar Ahasan Chowdhury - 23141055
