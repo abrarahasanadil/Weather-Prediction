@@ -18,5 +18,8 @@
 ## Conference URL:
 https://cats23.gust.edu.kw
 
+## Submission Link:
+https://easychair.org/conferences/?conf=cats23
+
 ## Conference submitted paper login Link:
 [https://edas.info/showPaper.php?m=1570913093](https://easychair.org/conferences/submitted?a=30932633;submission=6528383;track=304279)
