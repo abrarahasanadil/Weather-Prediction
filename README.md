@@ -28,4 +28,4 @@ https://easychair.org/conferences/?conf=cats23
 https://easychair.org/conferences/submission_uploaded?a=30932633;files=1;submission=6528383;track=304279
 
 
-![Members](images/members_added.png)
+![Members](members added.png)
